@@ -20,7 +20,7 @@ Jinja2==2.10.1
 jmespath==0.9.4     
 MarkupSafe==1.1.1     
 paramiko==2.6.0     
-pip==19.0.3    
+pip==21.1    
 pipenv==2018.11.26
 pyasn1==0.4.5     
 pycparser==2.19      
