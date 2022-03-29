@@ -19,7 +19,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1    
 jmespath==0.9.4     
 MarkupSafe==1.1.1     
-paramiko==2.6.0     
+paramiko==2.10.1     
 pip==19.0.3    
 pipenv==2018.11.26
 pyasn1==0.4.5     
